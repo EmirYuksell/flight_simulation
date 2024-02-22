@@ -36,7 +36,7 @@ gözlemlenir
 - **UNITY CONNECTION UDP BLOCK:** <br/> Uçağı simülasyon ortamında görüntülüyebilmek için elde edilen konum ve açısal oryantasyon bilgilerini UDP bağlantısı kurarak Unity ortamına gönderir.<br/>
 
 # UNITY 3D 
-![unity_foto](https://github.com/samies3468/aerosonde_flight_simulation/assets/72666457/7361f30b-0c44-4dde-8330-9b6aeed4512a) <br/>
+![Unity](https://github.com/EmirYuksell/flight_simulation/assets/159529847/c6fdb0e5-f256-47a8-b34e-8287ed39132c) <br/>
 - Dinamiği oluşturulan uçağın, pilot girdilerine göre dinamik olarak görüntülenmesi için gerekli olan ortamın hazırlandığı programdır.
 Uçağı temsil etmesi adına TB2 uçağının CAD çizimi kullanılmıştır. 
 Düzgün bir referenas oluşturması için Unity asset storedan alınan harita ve assetler konfigüre edilerek simülasyon için uygun bir ortam sağlanmıştır. 
