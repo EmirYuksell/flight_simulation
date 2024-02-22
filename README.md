@@ -3,7 +3,7 @@
 Bir İnsansız Hava Aracının dinamiğinin Matlab Simulink ile modellenmesi ve Unity 3D ortamında dinamik olarak simüle edilmesi. <br/>
 <br/>
 **Requirements:**
-- Unity3d
+- Unity 3D
 - Matlab/Simulink
 
 **VIDEO**
