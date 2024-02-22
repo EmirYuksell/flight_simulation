@@ -27,7 +27,8 @@ eşleştirilir. Bu sayede uçağın hareket değişimleri dinamik olarak Unity o
 gözlemlenir
 
 # MATLAB SIMULINK 
-![matlab_simulink](https://github.com/samies3468/aerosonde_flight_simulation/assets/72666457/f491f01a-f9e3-4e2b-9f80-65d016bafbb9) <br/>
+![Simulink](https://github.com/EmirYuksell/flight_simulation/assets/159529847/6febbaa8-d639-4411-8630-e6ae75af5169)<br/>
+
 <br/>
 - **JOYSTICK CONTROLLER BLOCK:**  <br/> Pilot girdileri ile uçak kontrol yüzeylerinin açılarının ve motor itki düzeyinin değişimini sağlar.<br/>
 - **WIND MODEL BLOCK:** <br/> Gerçekçi bir simülasyon için 3 boyutta sabit hızda rüzgar ve sürekli değişen gust oluşumunu sağlar.<br/>
